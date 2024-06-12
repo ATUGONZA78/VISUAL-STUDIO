@@ -1,0 +1,19 @@
+
+.item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.item .button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
+
+.item .button:hover {
+    background-color: #555;
+}
